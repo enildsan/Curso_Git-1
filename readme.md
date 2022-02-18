@@ -17,6 +17,11 @@ Instalamos o Git e vimos alguns comandos
 
 O que foi que eu aprendi aqui?
 
+#A Aula 3 foi indispensavel ja que aprendimos:
+A configuração do Git com o nome e email do usuario.
+Iniciar um repositorio local
+Ciclo de vida de um arquivo e seus difeeentes status.
+
 ## Aula 4
 
 O que foi que eu aprendi aqui?
